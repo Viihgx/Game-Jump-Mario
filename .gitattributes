@@ -1,0 +1,4 @@
+# Arquivo .gitattributes
+
+# Desativar conversão automática de quebras de linha para o arquivo README.md
+README.md -text
